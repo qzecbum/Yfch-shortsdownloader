@@ -2,7 +2,7 @@
 ### **Warning:** Currently, this script only support **Linux** as it is a **Bash** script.
 
 ## Features:
-###**Yfch is a lightweight yt-dlp tool for downloading batches of shorts on Linux**
+### **Yfch is a lightweight yt-dlp tool for downloading batches of shorts on Linux**
 - Download **batches of shorts** for offline vieweing
 - Enter **custom search terms****** which it will browse for online
 - Download and **organize** your files
